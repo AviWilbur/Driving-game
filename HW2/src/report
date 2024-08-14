@@ -1,0 +1,6 @@
+    Vehicle    |   Passenger   |     From      |      To       
+---------------|---------------|---------------|---------------
+   Vehicle 2   |  Passenger 1  |  Junction 6   |  Junction 10  
+   Vehicle 1   |  Passenger 4  |  Junction 1   |  Junction 9   
+   Vehicle 4   |  Passenger 3  |  Junction 6   |  Junction 2   
+   Vehicle 3   |  Passenger 2  |  Junction 4   |  Junction 6   
